@@ -1,0 +1,45 @@
+* {
+    background-color: blanchedalmond;
+    box-sizing: content-box;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(148, 110, 60);
+}
+
+h2 {
+    /* display: flex; */
+    text-align: center;
+    border: 6px solid rgb(139 15 135);
+    border-radius: 08px;
+    width: 80px;
+    height: auto;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 40px;
+}
+
+.button {
+    margin-right: 10px;
+    padding: 10px;
+    align-items: center;
+    display: flex;
+    /* display: grid; */
+    margin: auto;
+    font-size: 22px;
+    border-radius: 08px;
+    background-color: #027bff;
+    text-transform: uppercase;   
+}
+
+#reset {
+    margin-bottom: 20px;
+}
+
+
+
+/* .counter {
+    align-items: center;
+} */
